@@ -6,10 +6,23 @@
     <description>Recent content in Posts on KianWang的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sat, 27 Jun 2020 20:25:08 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2020 21:20:49 +0800</lastBuildDate>
     
 	<atom:link href="https://kianwang623.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何用hugo搭建个人博客</title>
+      <link>https://kianwang623.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 27 Jun 2020 21:20:49 +0800</pubDate>
+      
+      <guid>https://kianwang623.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>一、安装Hugo 去hugo官网下载hugo 解压后将hugo.exe文件放在固定路径 然后将此文件的路径加入到PATH
+二、创建public目录 点击Quick start快速开始 从Step2开始抄代码 直到Step7 得到一个public目录 即博客站点
+三、创建一个GitHub Repo 仓库名为[你的github用户名.github.io]
+四、创建本地仓库 进入public
+git init ga . gc 五、关联远程仓库 git remote add origin git@xxxxxx git push -u origin master 打开GitHub Pages 博客创建成功</description>
+    </item>
     
     <item>
       <title>第二篇博客</title>
